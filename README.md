@@ -115,4 +115,4 @@ After enrolling in a course, students see:
 
 ---
 
-**Built with ❤️ for the Pakistani AI/Data Science community**
+
