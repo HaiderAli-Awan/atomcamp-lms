@@ -5,8 +5,11 @@ Atomcamp Smart LMS is a full‑stack web application that uses **Claude AI** to 
 
 ---
 ## Live Demo : https://atomcamp-lms.vercel.app/
+## Team Members
+AI Developer and Agentic Engineer : Haider Ali 
+TEAM LEAD : Muhammad Noman Shahid
+AI Agentic Engineer : Muhammad  Maaz 
 ## Core Features
-
 ### 1. AI Skill Assessment
 - **5 adaptive questions** covering:
   - Educational/professional background
