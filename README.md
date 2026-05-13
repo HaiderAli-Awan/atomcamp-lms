@@ -1,7 +1,7 @@
-# atomcamp Smart LMS – Features & Functionality
+# Atomcamp Smart LMS – Features & Functionality
 
 ## Overview
-atomcamp Smart LMS is a full‑stack web application that uses **Claude AI** to personalise the learning experience. It assesses a learner’s background, goals, and commitment level, then recommends the most suitable courses, provides an AI study assistant (AtomBot), and gives instructors real‑time analytics and intervention suggestions.
+Atomcamp Smart LMS is a full‑stack web application that uses **Claude AI** to personalise the learning experience. It assesses a learner’s background, goals, and commitment level, then recommends the most suitable courses, provides an AI study assistant (AtomBot), and gives instructors real‑time analytics and intervention suggestions.
 
 ---
 
